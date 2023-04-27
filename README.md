@@ -4,8 +4,8 @@
 <br>
 
 <div style="display: flex; justify-content: space-between;"> <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luwix&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luwix&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luwix&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luwix&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 
