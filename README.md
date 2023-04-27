@@ -34,3 +34,5 @@
   </a>
 </div>
 
+
+![Snake animation](snake.svg)
