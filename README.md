@@ -3,7 +3,7 @@
 #### Buscando aprender a cada dia. 
 <br>
 
-<div style="display: flex; justify-content: space-between;"> 
+<div align="center" style="display: flex; justify-content: space-between;"> 
   <br>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luwix&show_icons=true&theme=dark"/>
    <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luwix&hide_progress=true"/>
