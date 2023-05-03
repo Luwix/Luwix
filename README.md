@@ -3,11 +3,9 @@
 #### Buscando aprender a cada dia. 
 <br>
 
-<div align="center"> 
-  <br>
+<div> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luwix&show_icons=true&theme=dark"/>
-    <br>
-   <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luwix&hide_progress=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luwix&hide_progress=true"/>
 </div>
 
 
